@@ -3,7 +3,7 @@
 <img src="./header.svg" alt="Yorre Saerens - developer, YOSAWEB" width="100%" />
 
 <a href="https://yosaweb.be">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A3D48A&center=true&vCenter=true&width=620&lines=Ik+bouw+apps+en+websites+solo;Rust+%7C+TypeScript+%7C+React;Founder+van+YOSAWEB;Altijd+aan+het+shippen+%F0%9F%9A%80" alt="Typing animatie" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A3D48A&center=true&vCenter=true&width=620&lines=I+build+apps+and+websites+solo;Rust+%7C+TypeScript+%7C+React;Founder+of+YOSAWEB;Always+shipping+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
@@ -14,16 +14,16 @@
 
 ---
 
-### 💻 Talen
+### 💻 Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,rust,js,ts,php,html,css&theme=dark" alt="Programmeertalen" />
+  <img src="https://skillicons.dev/icons?i=py,cs,rust,js,ts,php,html,css&theme=dark" alt="Programming languages" />
 </div>
 
 ### 🧰 Frameworks & tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,laravel,nodejs,supabase,mysql,docker,githubactions,git,figma&theme=dark" alt="Frameworks en tools" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,laravel,nodejs,supabase,mysql,docker,githubactions,git,figma&theme=dark" alt="Frameworks and tools" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Nhost-0052CD?style=for-the-badge&logo=nhost&logoColor=white" alt="Nhost" />
@@ -33,29 +33,27 @@
 
 ---
 
-### 🔨 Waar ik aan werk
+### 🔨 What I'm working on
 
-| Project | Wat het is |
+| Project | What it is |
 |---|---|
-| **GeoWarfare** | Game, klaar en komt binnenkort online |
-| **Secret Santa** | Komt binnenkort online |
-| **Nieuwe mailsoftware** | In de maak, een vervanger voor Gmail en Outlook |
-| **Schermtijd-app** | In de maak |
-| **Summio** | AI-studie-app voor Belgische/Nederlandse studenten |
-| **Shapevo** | Fitness & voeding app |
-| **SubTracker** | Abonnementen beheren |
+| **GeoWarfare** | A game, finished and launching soon |
+| **Secret Santa** | Launching soon |
+| **New mail software** | In the making, a replacement for Gmail and Outlook |
+| **Screen time app** | In the making |
+| **Summio** | AI study app for students in Belgium and the Netherlands |
+| **Shapevo** | Fitness & nutrition app |
+| **SubTracker** | Subscription tracker |
 
 ---
 
-### 📊 Mijn activiteit
-
-Elk vierkantje is één dag van het afgelopen jaar. Hoe groener, hoe meer ik die dag heb gecodeerd (inclusief mijn private projecten). De slang eet ze gewoon op, puur voor de fun. 🐍
+### 📊 Activity
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YorreSaerens/YorreSaerens/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YorreSaerens/YorreSaerens/output/github-snake.svg" />
-  <img alt="Snake die mijn contributions opeet" src="https://raw.githubusercontent.com/YorreSaerens/YorreSaerens/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YorreSaerens/YorreSaerens/output/github-snake.svg" />
 </picture>
 </div>
 
