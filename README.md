@@ -23,10 +23,11 @@
 ### 🧰 Frameworks & tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,laravel,nodejs,git&theme=dark" alt="Frameworks en tools" />
+  <img src="https://skillicons.dev/icons?i=react,expo,tailwind,vite,laravel,nodejs,supabase,mysql,docker,githubactions,git,figma&theme=dark" alt="Frameworks en tools" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Nhost-0052CD?style=for-the-badge&logo=nhost&logoColor=white" alt="Nhost" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/Mollie-0A0A0A?style=for-the-badge&logo=mollie&logoColor=white" alt="Mollie" />
 </div>
 
 ---
