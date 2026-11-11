@@ -1,36 +1,46 @@
 <div align="center">
 
-<img src="./header.svg" alt="Yorre Saerens - developer, SAERFORGE" width="100%" />
+<img src="./header.svg" alt="Yorre Saerens - developer, YOSAWEB" width="100%" />
 
-<a href="https://saerforge.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A3D48A&center=true&vCenter=true&width=620&lines=Ik+bouw+apps+en+web+producten+solo;React+%7C+TypeScript+%7C+Supabase;Student+%2B+founder+uit+Gent;Altijd+aan+het+shippen+%F0%9F%9A%80" alt="Typing animatie" />
+<a href="https://yosaweb.be">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A3D48A&center=true&vCenter=true&width=620&lines=Ik+bouw+apps+en+websites+solo;Rust+%7C+TypeScript+%7C+React;Founder+van+YOSAWEB;Altijd+aan+het+shippen+%F0%9F%9A%80" alt="Typing animatie" />
 </a>
 
 <br/>
 
-<a href="https://saerforge.com"><img src="https://img.shields.io/badge/website-saerforge.com-a3d48a?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="mailto:yorre@saerforge.com"><img src="https://img.shields.io/badge/mail-yorre%40saerforge.com-4ade80?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://yosaweb.be"><img src="https://img.shields.io/badge/website-yosaweb.be-a3d48a?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
 ---
 
-### 🧰 Tech stack
+### 💻 Talen
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,supabase,laravel,php,nodejs,git&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,rust,js,ts,php,html,css&theme=dark" alt="Programmeertalen" />
+</div>
+
+### 🧰 Frameworks & tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,laravel,nodejs,git&theme=dark" alt="Frameworks en tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Nhost-0052CD?style=for-the-badge&logo=nhost&logoColor=white" alt="Nhost" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
 </div>
 
 ---
 
 ### 🔨 Waar ik aan werk
 
-<!-- Pas aan naar wat je wil tonen. Link alleen naar publieke repos/sites. -->
 | Project | Wat het is |
 |---|---|
+| **GeoWarfare** | Game, klaar en komt binnenkort online |
+| **Secret Santa** | Komt binnenkort online |
+| **Nieuwe mailsoftware** | In de maak, een vervanger voor Gmail en Outlook |
+| **Schermtijd-app** | In de maak |
 | **Summio** | AI-studie-app voor Belgische/Nederlandse studenten |
 | **Shapevo** | Fitness & voeding app |
-| **StudentDesk** | Admin-tool voor student-zelfstandigen |
 | **SubTracker** | Abonnementen beheren |
 
 ---

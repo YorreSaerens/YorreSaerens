@@ -1,4 +1,4 @@
-<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yorre Saerens - developer, SAERFORGE">
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yorre Saerens - developer, YOSAWEB">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -48,7 +48,7 @@
 
   <!-- subtitel -->
   <text x="450" y="148" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#c9d1d9" opacity="0">
-    Solo developer &#183; Founder @ SAERFORGE
+    Solo developer &#183; Founder @ YOSAWEB
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.9s" fill="freeze"/>
   </text>
 
