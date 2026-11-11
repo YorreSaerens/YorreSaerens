@@ -17,7 +17,7 @@
 ### 💻 Talen
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,rust,js,ts,php,html,css&theme=dark" alt="Programmeertalen" />
+  <img src="https://skillicons.dev/icons?i=py,cs,rust,js,ts,php,html,css&theme=dark" alt="Programmeertalen" />
 </div>
 
 ### 🧰 Frameworks & tools
@@ -45,7 +45,9 @@
 
 ---
 
-### 🐍 Contributions
+### 📊 Mijn activiteit
+
+Elk vierkantje is één dag van het afgelopen jaar. Hoe groener, hoe meer ik die dag heb gecodeerd (inclusief mijn private projecten). De slang eet ze gewoon op, puur voor de fun. 🐍
 
 <div align="center">
 <picture>
